@@ -1,0 +1,4 @@
+| /\~|~| |')  \\  /\      ,_. _  |-.  ,_/`|_    |-
+|_\/ | |_|/_  //  \/|`(|(||||_\(||_|()||\,||(||`|_
+                      _|                          
+${AnsiColor.BRIGHT_BLUE}:: Running Spring Boot ${spring-boot.version} ::${AnsiStyle.NORMAL}
