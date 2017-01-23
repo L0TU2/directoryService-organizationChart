@@ -4,3 +4,4 @@ before_install:
   - chmod +x mvnw
 jdk:
   - oraclejdk8
+
