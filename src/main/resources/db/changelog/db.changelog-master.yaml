@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: L0TU2
+      changes:
+        - comment: Initializing DB
